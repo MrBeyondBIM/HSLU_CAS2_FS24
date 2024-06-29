@@ -1,0 +1,6 @@
+*.ifc
+hslu_cas/
+__pycache__/*.pyc
+
+
+
